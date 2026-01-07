@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "lang": "en",
+    "category": "login",
+    "question": "How can I reset my password?",
+    "answer": "Login -> Forgot your password? -> Here you enter your email address, then follow the link we send."
+  },
+  {
+    "id": "2",
+    "lang": "en",
+    "category": "login",
+    "question": "How can I create an account?",
+    "answer": "Sign up -> Create new account -> Here enter your email and password."
+  },
+  {
+    "id": "3",
+    "lang": "en",
+    "category": "billing",
+    "question": "What payment methods do you accept?",
+    "answer": "We accept major credit cards, debit cards, and PayPal as payment methods for online orders."
+  },
+  {
+    "id": "4",
+    "lang": "en",
+    "category": "billing",
+    "question": "What should I do if my discount code is not working?",
+    "answer": "If your discount code is not working, please double-check the terms and conditions associated with the code. If the issue persists, contact our customer support team for assistance."
+  },
+  {
+    "id": "5",
+    "lang": "en",
+    "category": "product",
+    "question": "Can I return a product without a receipt?",
+    "answer": "A receipt or proof of purchase is usually required for returns. Please refer to our return policy or contact our customer support team for assistance."
+  },
+  {
+    "id": "6",
+    "lang": "en",
+    "category": "product",
+    "question": "Can I return a product if I no longer have the original packaging?",
+    "answer": "While returning a product in its original packaging is preferred, you can still initiate a return without it. Contact our customer support team for guidance in such cases."
+  },
+  {
+    "id": "7",
+    "lang": "en",
+    "category": "support",
+    "question": "How do I unsubscribe from your newsletter?",
+    "answer": "To unsubscribe from our newsletter, click on the 'Unsubscribe' link at the bottom of any of our newsletter emails or update your preferences in your account settings."
+  },
+  {
+    "id": "8",
+    "lang": "mk",
+    "category": "login",
+    "question": "Што да направам ако мејлот со линкот за активација на профилот не стигнува на мојата емајл адреса?",
+    "answer": "Најпрвин проверете во спам делот, исто така можете да пробате со опцијата Испрати повторно, почекајте две три минути. Доколку ова не работи контактирајте го нашиот тим за поддршка."
+  },
+  {
+    "id": "9",
+    "lang": "mk",
+    "category": "billing",
+    "question": "Дали можам да користам повеќе промо кодови за една пратка",
+    "answer": "Не, за една пратка може да искористите само еден код, внесете го кодот во соодветното поле и активирајте го попустот."
+  },
+  {
+    "id": "10",
+    "lang": "mk",
+    "category": "support",
+    "question": "Како да аплицирам за работа во вашата компанија?",
+    "answer": "За да аплицирате за работа во нашата компанија, посетете ја нашата страна и во делот Кариера можете да пронајдете отворени позиции за работа"
+  }
+]
